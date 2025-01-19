@@ -9,4 +9,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Hola mundo
-        run: python .github/reto_1/hola_mundo.py
+        run: python reto_1/hola_mundo.py
